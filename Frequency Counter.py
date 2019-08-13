@@ -23,3 +23,5 @@ print(counter)
 
 # These are just some verbose comments that I made from VScode
 # lets try adding some new comments
+
+# And this was added to the new branch from Atom on Linux~
