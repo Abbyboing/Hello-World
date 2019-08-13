@@ -22,3 +22,4 @@ for i in name.split():
 print(counter)
 
 # These are just some verbose comments that I made from VScode
+# lets try adding some new comments
