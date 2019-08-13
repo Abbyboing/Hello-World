@@ -20,3 +20,5 @@ for i in name.split():
     else:
         counter[i] += 1
 print(counter)
+
+# These are just some verbose comments that I made from VScode
